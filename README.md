@@ -23,12 +23,12 @@ Some calls:
 - http://localhost:9090/remote/getCat
 - http://localhost:9090/remote/animalService/cow
 
-Initial:
-$  git init
-$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
-$ git status
-$ git add .
-$ git commit -m "Initial commit."
-$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
-$ git remote add origin https://github.com/robkremers/BKWI_Microservice_workshop.git
-$ git push -u origin master
+Initial: </br>
+$ git init</br>
+$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git</br>
+$ git status</br>
+$ git add .</br>
+$ git commit -m "Initial commit."</br>
+$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git</br>
+$ git remote add origin https://github.com/robkremers/BKWI_Microservice_workshop.git</br>
+$ git push -u origin master</br>
