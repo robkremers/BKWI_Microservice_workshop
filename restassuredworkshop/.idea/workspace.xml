@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe155730-4885-4a45-90eb-a093aea612f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="restassuredworkshop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwRXS9xkTlQfbpVgvWS5d6PjEy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyFirstRestAssuredTestClass">
+    <configuration name="MyFirstRestAssuredTestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassuredworkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.bkwi.workshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.bkwi.workshop" />
+      <option name="MAIN_CLASS_NAME" value="nl.bkwi.workshop.MyFirstRestAssuredTestClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstRestAssuredTestClass.endpointHelloWorldRespondsWithStatuscode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassuredworkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.bkwi.workshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.bkwi.workshop" />
+      <option name="MAIN_CLASS_NAME" value="nl.bkwi.workshop.MyFirstRestAssuredTestClass" />
+      <option name="METHOD_NAME" value="endpointHelloWorldRespondsWithStatuscode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyFirstRestAssuredTestClass" />
+        <item itemvalue="JUnit.MyFirstRestAssuredTestClass.endpointHelloWorldRespondsWithStatuscode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe155730-4885-4a45-90eb-a093aea612f7" name="Default Changelist" comment="" />
+      <created>1585748208511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585748208511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1618" height="271" key="GridCell.Tab.0.bottom" timestamp="1587298773379">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1618" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1587298773379" />
+    <state width="1618" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1792.1097@0.23.1792.1097" timestamp="1585749902935" />
+    <state width="1618" height="271" key="GridCell.Tab.0.center" timestamp="1587298773378">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1618" height="271" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1587298773378" />
+    <state width="1618" height="271" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1792.1097@0.23.1792.1097" timestamp="1585749902934" />
+    <state width="1618" height="271" key="GridCell.Tab.0.left" timestamp="1587298773378">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1618" height="271" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1587298773378" />
+    <state width="1618" height="271" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1792.1097@0.23.1792.1097" timestamp="1585749902934" />
+    <state width="1618" height="271" key="GridCell.Tab.0.right" timestamp="1587298773379">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1618" height="271" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1587298773379" />
+    <state width="1618" height="271" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1792.1097@0.23.1792.1097" timestamp="1585749902935" />
+    <state x="405" y="190" key="SettingsEditor" timestamp="1585750926510">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="405" y="190" key="SettingsEditor/-1920.23.1920.977/0.23.1792.1097@0.23.1792.1097" timestamp="1585750926510" />
+  </component>
+</project>

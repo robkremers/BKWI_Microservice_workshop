@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: my-second-micronaut-service
+  server:
+    port: 7070

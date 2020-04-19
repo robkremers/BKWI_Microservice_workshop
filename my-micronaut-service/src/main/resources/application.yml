@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: my-micronaut-service
+  server:
+    port: 9090

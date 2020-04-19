@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: my-animal-service
+  server:
+    port: 6060

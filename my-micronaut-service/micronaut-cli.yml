@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: nl.bkwi.workshop.mymicronautservice
+---
+testFramework: junit
+sourceLanguage: java
