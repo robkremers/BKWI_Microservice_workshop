@@ -24,11 +24,11 @@ Some calls:
 - http://localhost:9090/remote/animalService/cow
 
 Initial:
-  470  git init
-  471  git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
-  473  git status
-  474  git add .
-  480  git commit -m "Initial commit."
-  492  git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
-  498  git remote add origin https://github.com/robkremers/BKWI_Microservice_workshop.git
-  499  git push -u origin master
+$  git init
+$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
+$ git status
+$ git add .
+$ git commit -m "Initial commit."
+$ git pull https://github.com/robkremers/BKWI_Microservice_workshop.git
+$ git remote add origin https://github.com/robkremers/BKWI_Microservice_workshop.git
+$ git push -u origin master
